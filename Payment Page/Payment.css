@@ -1,0 +1,25 @@
+main{
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    margin: 0 auto;
+}
+body{
+    font-family: Graphik,Helvetica,Arial,sans-serif;
+    margin: 20px;
+    position: relative;
+    background-color: #35363A;
+}
+h1{
+    display: flex;
+    margin: 10px auto;
+    color: white;
+}
+.textAboveBoxes{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.paymentForm{
+    margin-bottom: 30px;
+}

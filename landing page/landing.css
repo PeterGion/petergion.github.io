@@ -1,0 +1,29 @@
+main{
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    margin: 0 auto;
+}
+.mainHeading{
+    text-align: center;
+}
+.selection{
+    font-size: 35px;
+}
+body{
+    font-family: Graphik,Helvetica,Arial,sans-serif;
+    margin: 20px;
+    position: static;
+    background-color: #35363A;
+    color: white;
+}
+.createAccount{
+    border-right: 1px solid lightgray;
+}
+section{
+  position: relative;
+  margin: 0 auto;
+  top: 30%;
+  
+ 
+}

@@ -1,0 +1,31 @@
+body{
+    font-family: Graphik,Helvetica,Arial,sans-serif;
+    margin: 20px;
+    position: relative;
+    background-color: #35363A;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+    margin: 0 auto;
+}
+h1{
+    display: flex;
+    padding-bottom: 30px;
+    max-width: 30%;
+    margin: 0 auto;
+    color: white;
+}
+.LoginForm{
+    padding-bottom: 30px;
+}
+
+.forgotPassword{
+    color: white;
+    font-size: 20px;
+}
+#loginButton, #loginButton:hover{
+    color: white;
+    text-decoration: none;
+}
